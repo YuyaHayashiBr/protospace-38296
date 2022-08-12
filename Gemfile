@@ -55,3 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Add 'devise' for user management 2022.08.12
 gem 'devise'
+
+# For image upload function 2022.08.12
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
